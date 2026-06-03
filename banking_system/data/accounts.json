@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Pande",
+        "email": "pp",
+        "password": "pp",
+        "balance": 0,
+        "transactions": []
+    },
+    {
+        "id": 2,
+        "name": "Chacham",
+        "email": "cc",
+        "password": "cc",
+        "balance": 0,
+        "transactions": []
+    }
+]
